@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/movie-recommendations/backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:movie-recommendations/Frontend.git
